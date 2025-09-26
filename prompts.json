@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "Neon Portrait",
+    "imageUrl": "https://picsum.photos/400/300?random=1",
+    "promptText": "Cinematic portrait with neon lights, ultra-detailed",
+    "tags": ["cinematic", "portrait"]
+  },
+  {
+    "id": "2",
+    "title": "Futuristic City",
+    "imageUrl": "https://picsum.photos/400/300?random=2",
+    "promptText": "Futuristic skyline at sunset, ultra realistic",
+    "tags": ["city", "futuristic"]
+  },
+  {
+    "id": "3",
+    "title": "Anime Style",
+    "imageUrl": "https://picsum.photos/400/300?random=3",
+    "promptText": "Anime character, colorful background, high detail",
+    "tags": ["anime", "character"]
+  },
+  {
+    "id": "4",
+    "title": "Fantasy Landscape",
+    "imageUrl": "https://picsum.photos/400/300?random=4",
+    "promptText": "Epic fantasy landscape with mountains and castles",
+    "tags": ["fantasy", "landscape"]
+  },
+  {
+    "id": "5",
+    "title": "Cyberpunk Street",
+    "imageUrl": "https://picsum.photos/400/300?random=5",
+    "promptText": "Cyberpunk street at night with neon signs",
+    "tags": ["cyberpunk", "street"]
+  }
+]
